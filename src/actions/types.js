@@ -1,0 +1,6 @@
+export const SET_LOADING = 'SET_LOADING';
+export const LIST_CONTACTS = 'LIST_CONTACTS';
+export const CREATE_CONTACT = 'CREATE_CONTACT';
+export const UPDATE_CONTACT = 'UPDATE_CONTACT';
+export const DELETE_CONTACT = 'DELETE_CONTACT';
+export const SET_CONTACT = 'SET_CONTACT';
