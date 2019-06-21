@@ -1,7 +1,7 @@
-## Listagem
+## Listagem / Cadastro
 <img src="https://raw.githubusercontent.com/adrianoandrade/react-redux-api/master/material/Listagem.png"/> <br/>
 
-## Edição
+## Edição / Edição / Exclusão
 <img src="https://raw.githubusercontent.com/adrianoandrade/react-redux-api/master/material/Edicao.png"/> <br/>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
