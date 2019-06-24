@@ -10,8 +10,8 @@ export default class ContactsService {
             const { data } = payload.data;
             return { error: false, data };
         } catch (error) {
-
-            return { error: true };
+            console.log('error', error);
+            return { error: true, data : [] };
         }
     }
 
@@ -22,7 +22,7 @@ export default class ContactsService {
             return { error: false, data };
         } catch (error) {
             console.log('error', error);
-            return { error: true };
+            return { error: true, data : {} };
         }
     }
 
