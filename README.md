@@ -1,4 +1,14 @@
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Listagem / Cadastro
+<img src="https://raw.githubusercontent.com/adrianoandrade/react-redux-api/master/material/Listagem.png"/> <br/>
+
+## Edição / Edição / Exclusão
+<img src="https://raw.githubusercontent.com/adrianoandrade/react-redux-api/master/material/Edicao.png"/> <br/>
+
+## BACK-END
+Você pode fazer o download do backend em nodeJs https://github.com/adrianoandrade/nodejs-mysql-sequelize
 
 ## Available Scripts
 
