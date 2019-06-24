@@ -11,7 +11,7 @@ export default class ContactsService {
             return { error: false, data };
         } catch (error) {
             console.log('error', error);
-            return { error: true, data : [] };
+            return { error: true, data: [] };
         }
     }
 
@@ -22,7 +22,7 @@ export default class ContactsService {
             return { error: false, data };
         } catch (error) {
             console.log('error', error);
-            return { error: true, data : {} };
+            return { error: true, data: {} };
         }
     }
 
